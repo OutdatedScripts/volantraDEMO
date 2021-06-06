@@ -14,4 +14,4 @@ yarl==1.6.3
 
 # VolantraDEMO - Open-Sourced Bot.
 
-With simple commands, Its hard go go wrong.
+With simple commands, Its hard to go wrong.
